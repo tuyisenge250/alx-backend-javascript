@@ -1,0 +1,1 @@
+Class is the way to create templete that helps to create object
