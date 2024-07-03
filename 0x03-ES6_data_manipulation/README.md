@@ -1,0 +1,1 @@
+this is javascript data manipulation and control of data with in array
